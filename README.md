@@ -1,2 +1,2 @@
 # Cryptography
-P box and Des Algorithm
+Permutation,DES,Feistel cipher Algorithm
